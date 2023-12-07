@@ -1,0 +1,11 @@
+vehicle_id,vehicle_type,make_id,model_year,vehicle_desc,color,date_stolen,location_id
+1,Trailer,623,2021,BST2021D,Silver,11/5/21,102
+2,BoatTrailer,623,2021,OUTBACK BOATS FT470,Silver,12/13/21,105
+3,BoatTrailer,623,2021,ASD JETSKI,Silver,2/13/22,102
+4,Trailer,623,2021,MSC 7X4,Silver,11/13/21,106
+5,Trailer,623,2018,D-MAX 8X5,Silver,1/10/22,102
+6,Roadbike,636,2005,YZF-R6T,Black,12/31/21,102
+7,Trailer,623,2021,CAAR TRANSPORTER,Silver,11/12/21,114
+8,BoatTrailer,623,2001,BOAT,Silver,2/22/22,109
+9,Trailer,514,2021,"7X4-6"" 1000KG",Silver,2/25/22,115
+10,Trailer,514,2020,8X4 TANDEM,Silver,1/3/22,114
